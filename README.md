@@ -113,4 +113,5 @@ model.export(format="onnx", opset=12)
 - Se requiere una API key de Roboflow para descargar el dataset.
 - Se recomienda ejecutar en Google Colab con GPU habilitada (T4 o superior).
 - El video de ejemplo puede descargarse directamente desde el repositorio de referencia en GitHub.
+- En Videos_Ejemplos se puede usar el archivo example_video.mp4 para probar el modelo en la app
 
