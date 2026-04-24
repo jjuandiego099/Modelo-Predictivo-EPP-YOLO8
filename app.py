@@ -191,6 +191,16 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
+st.markdown("""
+<div class="info-panel" style="font-size:12px;line-height:1.7;">
+    <b>Umbral de confianza:</b> nivel mínimo de certeza para mostrar una detección. 
+    Valores altos reducen falsos positivos; bajos detectan más con menor seguridad.<br><br>
+    <b>Umbral IoU (NMS):</b> controla el solapamiento permitido entre cajas. 
+    Valores bajos eliminan más duplicados; altos permiten cajas más próximas.<br><br>
+    <b>Grosor de caja:</b> tamaño en px del borde dibujado sobre cada detección.
+</div>
+""", unsafe_allow_html=True)
+
 # ── Carga automática del modelo ───────────────────────────────────────────────
 MODEL_PATH = Path(__file__).parent / "best.pt"
 
