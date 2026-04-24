@@ -114,3 +114,4 @@ model.export(format="onnx", opset=12)
 - Se recomienda ejecutar en Google Colab con GPU habilitada (T4 o superior).
 - El video de ejemplo puede descargarse directamente desde el repositorio de referencia en GitHub.
 # Modelo-Predictivo-EPP-YOLO8
+# Modelo-Predictivo-EPP-YOLO8
