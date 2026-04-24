@@ -3,7 +3,7 @@
 **Autor:** Juan Diego Chaparro Garcia  
 **Modelo base:** YOLOv8n (Ultralytics)  
 **Dataset:** PPE Factory — Roboflow  
-**Streamlit:** link[https://modelo-predictivo-epp-yolo8-wqlzmj7bjrsprfvxnnjojx.streamlit.app/]
+**Streamlit:** [Ver aplicación](https://modelo-predictivo-epp-yolo8-wqlzmj7bjrsprfvxnnjojx.streamlit.app/)
 
 ---
 
